@@ -1,8 +1,8 @@
-# # FrostyZakoBot
+# # ActivitiesBot
 
 Discord Slash Commands bot to launch Voice Channel Activities. Made with [Harmony](https://github.com/harmonyland/harmony) and [Deno Deploy](https://deno.com/deploy). You can invite the bot [here](https://discord.com/api/oauth2/authorize?client_id=893301077791883294&permissions=1&scope=applications.commands%20bot).
 
-Made by [Anthony van Tonder](https://github.com/AnthonyVTdev) ([FrostyZakoBot Bot](https://github.com/AnthonyVTdev/ActivitiesBot)). This is a port to Deno Deploy.
+Made by [Anthony van Tonder](https://github.com/AnthonyVTdev) ([ActivitiesBot](https://github.com/AnthonyVTdev/ActivitiesBot)). This is a port to Deno Deploy.
 
 ## Deployment
 
