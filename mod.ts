@@ -45,7 +45,7 @@ const ACTIVITIES: {
   wordsnacks: {
     id: "879863976006127627",
     name: "WordSnacks",
-},
+  },
   watchTogether: {
     id: "880218394199220334",
     name: "Watch Together",
