@@ -45,6 +45,10 @@ const ACTIVITIES: {
   wordsnacks: {
     id: "879863976006127627",
     name: "WordSnacks",
+},
+  watchTogether: {
+    id: "880218394199220334",
+    name: "Watch Together",
   },
 };
 
@@ -138,7 +142,7 @@ slash.handle("invite", (d) => {
     `• [Click here to invite.](<https://discord.com/oauth2/authorize?client_id=894186849914982430&permissions=1&scope=applications.commands%20bot>)\n` +
       `• [Support Server.](<https://discord.gg/jwcPjeGXNf>)\n` +
       `• [Website.](<https://linktr.ee/FrostyZakoBot>)\n` +
-      `• Bot Made by [Anthony van Tonder](<https://github.com/AnthonyVTdev>)`,
+      `• Originally made by [Anthony van Tonder](<https://github.com/AnthonyVTdev>) ([Activites Bot](<https://github.com/AnthonyVTdev/ActivitiesBot>)), this is a port to Deno Deploy.`,
     { ephemeral: true },
   );
 });
