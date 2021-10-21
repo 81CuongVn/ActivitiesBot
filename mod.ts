@@ -50,6 +50,10 @@ const ACTIVITIES: {
     id: "880218394199220334",
     name: "Watch Together",
   },
+  spellcast: {
+    id: "852509694341283871",
+    name: "Spellcast",
+  },
 };
 
 const commands = [
