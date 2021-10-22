@@ -145,7 +145,6 @@ slash.handle("invite", (d) => {
   return d.reply(
     `• [Click here to invite.](<https://discord.com/oauth2/authorize?client_id=894186849914982430&permissions=1&scope=applications.commands%20bot>)\n` +
       `• [Support Server.](<https://discord.gg/jwcPjeGXNf>)\n` +
-      `• [Website.](<https://linktr.ee/FrostyZakoBot>)\n` +
       `• Originally made by [Anthony van Tonder](<https://github.com/AnthonyVTdev>) ([Activites Bot](<https://github.com/AnthonyVTdev/ActivitiesBot>)), this is a port to Deno Deploy.`,
     { ephemeral: true },
   );
