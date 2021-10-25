@@ -54,6 +54,10 @@ const ACTIVITIES: {
     id: "852509694341283871",
     name: "Spellcast",
   },
+  awkword: {
+    id: "879863881349087252",
+    name: "Awkword",
+  },
 };
 
 const commands = [
