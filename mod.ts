@@ -30,9 +30,9 @@ const ACTIVITIES: {
     id: "832012774040141894",
     name: "Chess in the Park",
   },
-  clickdis: {
+  puttsdis: {
     id: "832012854282158180",
-    name: "Click Dis",
+    name: "Putts Dis",
   },
   doodlecrew: {
     id: "878067389634314250",
