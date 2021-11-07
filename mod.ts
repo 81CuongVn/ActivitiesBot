@@ -58,6 +58,10 @@ const ACTIVITIES: {
     id: "879863881349087252",
     name: "Awkword",
   },
+  checkers: {
+    id: "832013003968348200",
+    name: "Checkers In The Park (New)",
+  },
 };
 
 const commands = [
