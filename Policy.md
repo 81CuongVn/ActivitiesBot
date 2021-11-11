@@ -18,7 +18,7 @@ None.
 
 ### How can users contact you if they have concerns about your bot?
 
-You can contact me on Discord: Anthony van Tonder#2390
+You can contact me on Discord: Anthony van Tonder#0001
  (853462855784464416).
 
 ### If you store data, how can users have that data removed?
