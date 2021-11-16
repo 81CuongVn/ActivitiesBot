@@ -62,10 +62,6 @@ const ACTIVITIES: {
     id: "832013003968348200",
     name: "Checkers In The Park (New)",
   },
-  puttparty: {
-    id: "763133495793942528",
-    name: "PuttParty (New)",
-  },
   sketchyartist: {
     id: "879864070101172255",
     name: "SketchyArtist (New)",
