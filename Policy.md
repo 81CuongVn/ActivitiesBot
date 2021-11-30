@@ -1,4 +1,4 @@
-# Privacy Policy
+# ActivitiesProviderBot Privacy Policy
 
 ### What data do you collect, including but not limited to personal identifying information?
 
