@@ -26,6 +26,4 @@ Application's bot user must be in the guild to create activity invite.
 - Check Bot's Privacy Policy [here](Policy.md).
 
 
-Copyright 2021 © Anthony van Tonder 
-
-GIVE CREDITS TO ANTHONY VAN TONDER WHEN USING THIS CODE OR YOU WILL HAVE COPYRIGHT ISSUE
+Copyright 2021 © Anthony van Tonder
