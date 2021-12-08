@@ -13,7 +13,7 @@ This bot is deployed to [Deno Deploy](https://deno.com/deploy). You can also dep
 
 ## How it works?
 
-Refer to [this part of code](https://github.com/AnthonyVTdev/ActivitiesProviderBot/blob/main/mod.ts#L89).
+Refer to [this part of code](https://github.com/AnthonyVTdev/ActivitiesProviderBot/blob/main/mod.ts#L109).
 
 ### But why bot scope?
 
