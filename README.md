@@ -1,4 +1,4 @@
-# # Activities Provider Bot
+# # ActivitiesBot
 Discord Slash Commands bot to launch Voice Channel Activities. Made with [Harmony](https://github.com/harmonyland/harmony) and [Deno Deploy](https://deno.com/deploy).
 
 Made by [Anthony van Tonder](https://github.com/AnthonyVTdev) ([ActivitiesBot](https://github.com/AnthonyVTdev/ActivitiesBot)). This is a port to Deno Deploy.
