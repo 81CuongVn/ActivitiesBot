@@ -157,7 +157,7 @@ slash.handle("invite", (d) => {
   return d.reply(
     `• [Privacy Policy](<https://github.com/AnthonyVTdev/ActivitiesBot/blob/main/Policy.md>)\n` +
       `• [Support Server.](<https://discord.gg/ZAzGRFTv59>)\n` +
-      `• Originally Bot Made By [Anthony van Tonder](<https://github.com/AnthonyVTdev>) ([Activites Bot](<https://github.com/AnthonyVTdev/ActivitiesBot>)), this is a port to Deno Deploy.`,
+      `• Originally Bot Made By [Anthony van Tonder](<https://github.com/AnthonyVTdev>) ([ActivitesBot](<https://github.com/AnthonyVTdev/ActivitiesBot>)), this is a port to Deno Deploy.`,
     { ephemeral: true },
   );
 });
