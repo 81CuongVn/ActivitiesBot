@@ -70,8 +70,8 @@ const ACTIVITIES: {
 
 const commands = [
    {
-     name: "invite",
-     description: "Invite me to your server.",
+     name: "info",
+     description: "Sends You The Information About The Bot",
    },
    {
      name: "activity",
@@ -153,7 +153,7 @@ slash.handle("activity", (d) => {
     });
 });
 
-slash.handle("invite", (d) => {
+slash.handle("info", (d) => {
   return d.reply(
     `• [Privacy Policy](<https://github.com/AnthonyVTdev/ActivitiesBot/blob/main/Policy.md>)\n` +
       `• [Support Server.](<https://discord.gg/ZAzGRFTv59>)\n` +
