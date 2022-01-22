@@ -60,11 +60,15 @@ const ACTIVITIES: {
   },
   checkers: {
     id: "832013003968348200",
-    name: "Checkers In The Park (New)",
+    name: "Checkers In The Park",
   },
   sketchyartist: {
     id: "879864070101172255",
-    name: "SketchyArtist (New)",
+    name: "SketchyArtist",
+  },
+  sketchheads: {
+    id: "902271654783242291",
+    name: "Sketchheads (New)",  
   },
 };
 
@@ -157,7 +161,7 @@ slash.handle("info", (d) => {
   return d.reply(
     `• [Privacy Policy](<https://github.com/AnthonyVTdev/ActivitiesBot/blob/main/Policy.md>)\n` +
       `• [Support Server.](<https://discord.gg/ZAzGRFTv59>)\n` +
-      `• Originally Bot Made By [Anthony van Tonder](<https://github.com/AnthonyVTdev>) ([ActivitesBot](<https://github.com/AnthonyVTdev/ActivitiesBot>)), this is a port to Deno Deploy.`,
+      `• Bot Made By [Anthony van Tonder](<https://github.com/AnthonyVTdev>) ([ActivitesBot](<https://github.com/AnthonyVTdev/ActivitiesBot>)), this is a port to Deno Deploy.`,
     { ephemeral: true },
   );
 });
