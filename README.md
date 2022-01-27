@@ -5,10 +5,9 @@
 [![GitHub followers](https://img.shields.io/github/followers/AnthonyVTdev?style=social)](https://github.com/AnthonyVTdev) [![GitHub Repo stars](https://img.shields.io/github/stars/AnthonyVTdev/ActivitiesBot?style=social)](https://github.com/AnthonyVTdev/ActivitiesBot/stargazers) [![GitHub forks](https://img.shields.io/github/forks/AnthonyVTdev/ActivitiesBot?style=social)](https://github.com/AnthonyVTdev/ActivitiesBot/network/members)
 
 Discord Slash Commands bot to launch Voice Channel Activities. Made with [Harmony](https://github.com/harmonyland/harmony) and [Deno Deploy](https://deno.com/deploy).
+Made by [Anthony van Tonder](https://github.com/AnthonyVTdev) ([ActivitiesBot](https://github.com/AnthonyVTdev/ActivitiesBot)). This is a port to Deno Deploy.
 
 </div>  
-  
-Made by [Anthony van Tonder](https://github.com/AnthonyVTdev) ([ActivitiesBot](https://github.com/AnthonyVTdev/ActivitiesBot)). This is a port to Deno Deploy.
 
 ## Deployment
 
