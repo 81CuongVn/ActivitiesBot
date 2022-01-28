@@ -68,7 +68,11 @@ const ACTIVITIES: {
   },
   sketchheads: {
     id: "902271654783242291",
-    name: "Sketchheads (New)",  
+    name: "Sketchheads",  
+  },
+  ocho: {
+    id: "832025144389533716",
+    name: "Ocho (New)",  
   },
 };
 
