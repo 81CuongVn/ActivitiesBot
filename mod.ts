@@ -10,7 +10,11 @@ const ACTIVITIES: {
     name: string;
   };
 } = {
-  poker: {
+  watchtogether: {
+    id: "880218394199220334",
+    name: "Watch Together",
+  },
+  pokernight: {
     id: "755827207812677713",
     name: "Poker Night",
   },
@@ -18,11 +22,7 @@ const ACTIVITIES: {
     id: "773336526917861400",
     name: "Betrayal.io",
   },
-  youtube: {
-    id: "755600276941176913",
-    name: "YouTube Together",
-  },
-  fishing: {
+  fishington: {
     id: "814288819477020702",
     name: "Fishington.io",
   },
@@ -30,49 +30,49 @@ const ACTIVITIES: {
     id: "832012774040141894",
     name: "Chess in the Park",
   },
-  puttsdis: {
-    id: "832012854282158180",
-    name: "Putts Dis",
-  },
-  doodlecrew: {
-    id: "878067389634314250",
-    name: "DoodleCrew",
-  },
-  lettertile: {
-    id: "879863686565621790",
-    name: "LetterTile",
-  },
-  wordsnacks: {
-    id: "879863976006127627",
-    name: "WordSnacks",
-  },
-  watchTogether: {
-    id: "880218394199220334",
-    name: "Watch Together",
-  },
-  spellcast: {
-    id: "852509694341283871",
-    name: "Spellcast",
+  sketchyartist: {
+    id: "879864070101172255",
+    name: "Sketchy Artist",
   },
   awkword: {
     id: "879863881349087252",
     name: "Awkword",
   },
+  doodlecrew: {
+    id: "878067389634314250",
+    name: "Doodle Crew",
+  },
+  sketchheads: {
+    id: "902271654783242291",
+    name: "Sketch Heads",
+  },
+  letterleague: {
+    id: "879863686565621790",
+    name: "Letter League",
+  },
+  wordsnacks: {
+    id: "879863976006127627",
+    name: "Word Snacks",
+  },
+  spellCast: {
+    id: "852509694341283871",
+    name: "SpellCast",
+  },
   checkers: {
     id: "832013003968348200",
     name: "Checkers In The Park",
   },
-  sketchyartist: {
-    id: "879864070101172255",
-    name: "SketchyArtist",
-  },
-  sketchheads: {
-    id: "902271654783242291",
-    name: "Sketchheads",  
-  },
-  ocho: {
+  blazing8s: {
     id: "832025144389533716",
-    name: "Ocho (New)",  
+    name: "Blazing 8s",
+  },
+  puttparty: {
+    id: "945737671223947305",
+    name: "Putt Party",  
+  },
+  land-io: {
+    id: "903769130790969345",
+    name: "Land-io",  
   },
 };
 
