@@ -1,7 +1,3 @@
-<p align="center">
-<img src="https://i.imgur.com/gSLL3WQ.png" alt="drawing" width="200"/>
-</p>
-
 # ActivitiesBot
 Discord Slash Commands bot to launch Voice Channel Activities. Made with [Harmony](https://github.com/harmonyland/harmony) and [Deno Deploy](https://deno.com/deploy).
 
