@@ -163,7 +163,8 @@ slash.handle("activity", (d) => {
 
 slash.handle("info", (d) => {
   return d.reply(
-    `• [Privacy Policy](<https://github.com/AnthonyVanTonder/ActivitiesBot/blob/main/Policy.md>)\n` +
+      `• [Privacy Policy](<https://github.com/AnthonyVanTonder/ActivitiesBot/blob/main/Policy.md>)\n` +
+      `• [Terms of Service](<https://github.com/AnthonyVanTonder/ActivitiesBot/blob/main/Terms.md>)\n` +
       `• [Support Server.](<https://discord.gg/ZAzGRFTv59>)\n` +
       `• Bot Made By [Anthony van Tonder](<https://github.com/AnthonyVanTonder>) ([ActivitesBot](<https://github.com/AnthonyVanTonder/ActivitiesBot>)), this is a port to Deno Deploy.`,
     { ephemeral: true },
