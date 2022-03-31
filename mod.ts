@@ -16,7 +16,7 @@ const ACTIVITIES: {
   },
   pokernight: {
     id: "755827207812677713",
-    name: "Poker Night",
+    name: "Poker Night (Requires Boost Level 1)",
   },
   betrayal: {
     id: "773336526917861400",
@@ -24,11 +24,11 @@ const ACTIVITIES: {
   },
   fishington: {
     id: "814288819477020702",
-    name: "Fishington.io",
+    name: "Fishington.io (broken)",
   },
   chess: {
     id: "832012774040141894",
-    name: "Chess in the Park",
+    name: "Chess In The Park (Requires Boost Level 1)",
   },
   sketchyartist: {
     id: "879864070101172255",
@@ -48,7 +48,7 @@ const ACTIVITIES: {
   },
   letterleague: {
     id: "879863686565621790",
-    name: "Letter League",
+    name: "Letter League (formerly Letter Tile) (Requires Boost Level 1)",
   },
   wordsnacks: {
     id: "879863976006127627",
@@ -56,23 +56,23 @@ const ACTIVITIES: {
   },
   spellCast: {
     id: "852509694341283871",
-    name: "SpellCast",
+    name: "SpellCast (Requires Boost Level 1)",
   },
   checkers: {
     id: "832013003968348200",
-    name: "Checkers In The Park",
+    name: "Checkers In The Park (Requires Boost Level 1)",
   },
   blazing8s: {
     id: "832025144389533716",
-    name: "Blazing 8s",
+    name: "Blazing 8s (New!, formerly Ocho) (Requires Boost Level 1)",
   },
   puttparty: {
     id: "945737671223947305",
-    name: "Putt Party",  
+    name: "Putt Party (New! Requires Boost Level 1)",  
   },
   land-io: {
     id: "903769130790969345",
-    name: "Land-io",  
+    name: "Land-io (New! Requires Boost Level 1)",  
   },
 };
 
