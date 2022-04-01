@@ -54,7 +54,7 @@ const ACTIVITIES: {
 const commands = [
    {
      name: "info",
-     description: "Invite me to your server.",
+     description: "Sends You The Information About The Bot.",
    },
    {
      name: "activity",
