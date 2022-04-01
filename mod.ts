@@ -1,5 +1,4 @@
 import * as slash from "https://code.harmony.rocks/v2.0.0/deploy";
-{}
 
 // Pick up TOKEN and PUBLIC_KEY from ENV.
 slash.init({ env: true });
@@ -10,67 +9,41 @@ const ACTIVITIES: {
     name: string;
   };
 } = {
-  watchtogether: {
-    id: "880218394199220334",
-    name: "Watch Together",
-  },
-  pokernight: {
+  poker: {
     id: "755827207812677713",
-    name: "Poker Night (Requires Boost Level 1)",
+    name: "Poker Night",
   },
   betrayal: {
     id: "773336526917861400",
     name: "Betrayal.io",
   },
-  fishington: {
+  youtube: {
+    id: "755600276941176913",
+    name: "YouTube Together",
+  },
+  fishing: {
     id: "814288819477020702",
-    name: "Fishington.io (broken)",
+    name: "Fishington.io",
   },
   chess: {
     id: "832012774040141894",
-    name: "Chess In The Park (Requires Boost Level 1)",
+    name: "Chess in the Park",
   },
-  sketchyartist: {
-    id: "879864070101172255",
-    name: "Sketchy Artist",
+  watchTogether: {
+    id: "880218394199220334",
+    name: "Watch Together",
   },
-  awkword: {
-    id: "879863881349087252",
-    name: "Awkword",
-  },
-  doodlecrew: {
+  doodleCrew: {
     id: "878067389634314250",
     name: "Doodle Crew",
   },
-  sketchheads: {
-    id: "902271654783242291",
-    name: "Sketch Heads",
-  },
-  letterleague: {
+  letterTile: {
     id: "879863686565621790",
-    name: "Letter League (formerly Letter Tile) (Requires Boost Level 1)",
+    name: "Letter Tile",
   },
-  wordsnacks: {
+  wordSnacks: {
     id: "879863976006127627",
     name: "Word Snacks",
-  },
-  spellCast: {
-    id: "852509694341283871",
-    name: "SpellCast (Requires Boost Level 1)",
-  },
-  checkers: {
-    id: "832013003968348200",
-    name: "Checkers In The Park (Requires Boost Level 1)",
-  },wordSnacks: {
-    id: "879863976006127627",
-    name: "Word Snacks",
-  blazing8s: {
-    id: "832025144389533716",
-    name: "Blazing 8s (New!, formerly Ocho) (Requires Boost Level 1)",
-  },
-  puttparty: {
-    id: "945737671223947305",
-    name: "Putt Party (New! Requires Boost Level 1)",
   },
 };
 
