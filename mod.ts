@@ -41,7 +41,7 @@ const ACTIVITIES: {
     id: "879863976006127627",
     name: "Word Snacks",
   },
-  puttparty: {
+  puttParty: {
     id: "945737671223947305",
     name: "Putt Party (New! Requires Boost Level 1)",
   },
