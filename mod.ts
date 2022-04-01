@@ -11,7 +11,7 @@ const ACTIVITIES: {
 } = {
   poker: {
     id: "755827207812677713",
-    name: "Poker Night (Requires Boost Level 1)",
+    name: "Poker Night",
   },
   betrayal: {
     id: "773336526917861400",
@@ -23,11 +23,11 @@ const ACTIVITIES: {
   },
   fishing: {
     id: "814288819477020702",
-    name: "Fishington.io (broken)",
+    name: "Fishington.io",
   },
   chess: {
     id: "832012774040141894",
-    name: "Chess in the Park (Requires Boost Level 1)",
+    name: "Chess in the Park",
   },
   doodleCrew: {
     id: "878067389634314250",
@@ -35,7 +35,7 @@ const ACTIVITIES: {
   },
   letterTile: {
     id: "879863686565621790",
-    name: "Letter Tile (formerly Letter Tile) (Requires Boost Level 1)",
+    name: "Letter Tile",
   },
   wordSnacks: {
     id: "879863976006127627",
@@ -43,7 +43,7 @@ const ACTIVITIES: {
   },
   puttParty: {
     id: "945737671223947305",
-    name: "Putt Party (New! Requires Boost Level 1)",
+    name: "Putt Party",
   },
 };
 
