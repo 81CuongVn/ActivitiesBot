@@ -61,18 +61,16 @@ const ACTIVITIES: {
   checkers: {
     id: "832013003968348200",
     name: "Checkers In The Park (Requires Boost Level 1)",
-  },
+  },wordSnacks: {
+    id: "879863976006127627",
+    name: "Word Snacks",
   blazing8s: {
     id: "832025144389533716",
     name: "Blazing 8s (New!, formerly Ocho) (Requires Boost Level 1)",
   },
   puttparty: {
     id: "945737671223947305",
-    name: "Putt Party (New! Requires Boost Level 1)",  
-  },
-  land-io: {
-    id: "903769130790969345",
-    name: "Land-io (New! Requires Boost Level 1)",  
+    name: "Putt Party (New! Requires Boost Level 1)",
   },
 };
 
