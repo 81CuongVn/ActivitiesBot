@@ -17,9 +17,9 @@ const ACTIVITIES: {
     id: "773336526917861400",
     name: "Betrayal.io",
   },
-  watchTogether: {
-    id: "880218394199220334",
-    name: "Watch Together",
+  youtube: {
+    id: "755600276941176913",
+    name: "YouTube Together",
   },
   fishing: {
     id: "814288819477020702",
@@ -28,6 +28,10 @@ const ACTIVITIES: {
   chess: {
     id: "832012774040141894",
     name: "Chess in the Park",
+  },
+  watchTogether: {
+    id: "880218394199220334",
+    name: "Watch Together",
   },
   doodleCrew: {
     id: "878067389634314250",
