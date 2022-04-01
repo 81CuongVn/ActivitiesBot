@@ -17,10 +17,6 @@ const ACTIVITIES: {
     id: "773336526917861400",
     name: "Betrayal.io",
   },
-  youtube: {
-    id: "755600276941176913",
-    name: "YouTube Together",
-  },
   fishing: {
     id: "814288819477020702",
     name: "Fishington.io",
@@ -29,21 +25,29 @@ const ACTIVITIES: {
     id: "832012774040141894",
     name: "Chess in the Park",
   },
+  doodlecrew: {
+    id: "878067389634314250",
+    name: "DoodleCrew",
+  },
+  lettertile: {
+    id: "879863686565621790",
+    name: "LetterTile",
+  },
+  wordsnacks: {
+    id: "879863976006127627",
+    name: "WordSnacks",
+  },
   watchTogether: {
     id: "880218394199220334",
     name: "Watch Together",
   },
-  doodleCrew: {
-    id: "878067389634314250",
-    name: "Doodle Crew",
+  spellcast: {
+    id: "852509694341283871",
+    name: "Spellcast",
   },
-  letterTile: {
-    id: "879863686565621790",
-    name: "Letter Tile",
-  },
-  wordSnacks: {
-    id: "879863976006127627",
-    name: "Word Snacks",
+  checkers: {
+    id: "832013003968348200",
+    name: "Checkers In The Park",
   },
 };
 
