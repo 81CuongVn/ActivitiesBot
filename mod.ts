@@ -70,7 +70,7 @@ const ACTIVITIES: {
   },
   puttparty: {
     id: "945737671223947305",
-    name: "Putt Party (New! Requires Boost Level 1)"
+    name: "Putt Party (New! Requires Boost Level 1)",
   },
 };
 
