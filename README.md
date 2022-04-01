@@ -15,7 +15,7 @@ This bot is deployed to [Deno Deploy](https://deno.com/deploy). You can also dep
 
 ## How it works?
 
-Refer to [this part of code](https://github.com/AnthonyVanTonder/ActivitiesBot/blob/main/mod.ts#L88).
+Refer to [this part of code](https://github.com/AnthonyVanTonder/ActivitiesBot/blob/main/mod.ts#L92).
 
 ### But why bot scope?
 
